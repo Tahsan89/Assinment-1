@@ -18,3 +18,33 @@
     border-radius: 16px;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
 }
+
+.CATEGORIES {
+    text-align: center;
+}
+
+#Discount {
+    color: #F00;
+    font-size: 75px;
+    font-weight: 700;
+    margin-top: 110px;
+}
+
+#DEALS {
+    color: #F00;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#CATEGORIES {
+    color: #070211;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#ny-mission {
+    margin-left: 520px;
+    margin-top: 20px;
+    width: 802.9px;
+    height: 500px;
+}
