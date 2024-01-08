@@ -125,10 +125,11 @@
 
 .hny {
     margin-left: 1300px;
-    margin-top: -300px;
+    margin-top: -290px;
     font-size: 24px;
     font-weight: 500;
     line-height: normal;
+    padding: auto;
 }
 
 .ny {
@@ -183,7 +184,55 @@
     margin-top: -600px;
     margin-left: 350px;
 }
-.discount{
+
+.discount {
     margin-top: -11000px;
     margin-left: 940px;
+    position: relative;
+}
+
+.img {
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 100%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.nypc {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.para {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 260px;
+}
+
+.tbg {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 260px;
+}
+
+.oap {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-left: 260px;
+}
+
+.Awesome-portfolio {
+    width: 35px;
+    margin-left: 260px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px
+}
+.gift-section{
+   
 }
