@@ -1,0 +1,20 @@
+.first-title {
+    text-align: center;
+    justify-content: center;
+    margin-top: -450px;
+    color: aliceblue;
+    font-size: 28px;
+    font-weight: 900;
+
+}
+
+.header .first-section .img {
+    width: 1320px;
+    height: 600px;
+    border: 15px 15px 15px 15px;
+    flex-shrink: 0;
+    margin: 30px auto;
+    position: relative;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
